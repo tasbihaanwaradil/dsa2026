@@ -18,7 +18,14 @@ int main(){
 
     int e = ++d; //update phle, kam bad me
     cout << e << endl; //21
-   
+
+    int f = 10;
+    int g = f--; //kam ohle, update bad me
+    cout << g << endl; //10
+
+    int h = 10;
+    int i = --h;
+    cout << i << endl; //9
 
     return 0;
 }
