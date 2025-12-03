@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+int main(){
+    //sum of even numbers from 1 to n uisng while Loop
+
+    int i = 1;
+    int sum = 0;
+    int n = 5; 
+    while (i<=n)
+    {
+        if(i%2==0){
+            sum += i;
+        }
+        i++;
+    }
+    
+    cout << "sum of even numbers is: " << sum;
+
+    return 0;
+}
