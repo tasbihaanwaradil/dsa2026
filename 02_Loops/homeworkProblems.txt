@@ -1,0 +1,2 @@
+Q1: Sum of all numbers from 1-N which are divisible by 3.
+Q2: Print Factorial of number N.
