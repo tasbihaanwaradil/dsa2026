@@ -52,12 +52,4 @@ Contributions are welcome! You can:
 
 ---
 
-## Resources
-
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)  
-- [LeetCode](https://leetcode.com/)  
-- [C++ Documentation](https://cplusplus.com/)  
-
----
-
 ✅ **Tip:** Bookmark this repo and practice daily to systematically strengthen your DSA skills.
