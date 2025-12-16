@@ -14,7 +14,14 @@ It contains **topics, solved problems, and code implementations** in a structure
 | **C++ Basics** | Conditional Statements, Loops, Patterns, Functions, etc. | N/A |
 | **Binary Number System** | Binary to Decimal Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/binaryToDecimal.cpp) |
 | | Decimal to Binary Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/decimalToBinary.cpp) |
-| **Arrays** | Maximum Subarray Problem (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_bruteforce.cpp) |
+| **Arrays** | Linear Search Algorithm | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/LinearSearchAlgorithm.cpp) |
+| | Reverse the Array (Two-pointer technique) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/ReverseOfArray.cpp) |
+| | Sum of all elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/arraySum.cpp) |
+| | Find largest number | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findLargestNumber.cpp) |
+| | Find smallest number | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findSmallestNumber.cpp) |
+| | Swap maximum and minimum elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/swapMinMax.cpp) |
+| | Print all unique values | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/uniqueValue.cpp) |
+| **Maximum Subarray** | Maximum Subarray Problem (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_bruteforce.cpp) |
 | | Maximum Subarray Problem (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_kadane.cpp) |
 | **Vectors** | (To be added) | N/A |
 
