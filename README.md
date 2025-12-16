@@ -12,10 +12,10 @@ It contains **topics, solved problems, and code implementations** in a structure
 | Topic | Problem | Solution Link |
 |-------|--------|---------------|
 | **C++ Basics** | Conditional Statements, Loops, Patterns, Functions, etc. | N/A |
-| **Binary Number System** | Binary to Decimal Conversion | [BinaryToDecimal.cpp](BinaryNumberSystem/BinaryToDecimal.cpp) |
-| | Decimal to Binary Conversion | [DecimalToBinary.cpp](BinaryNumberSystem/DecimalToBinary.cpp) |
-| **Arrays** | Maximum Subarray Problem (Brute Force) | [MaximumSubarrayBruteForce.cpp](Arrays/MaximumSubarrayBruteForce.cpp) |
-| | Maximum Subarray Problem (Kadane’s Algorithm) | [MaximumSubarrayKadane.cpp](Arrays/MaximumSubarrayKadane.cpp) |
+| **Binary Number System** | Binary to Decimal Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/binaryToDecimal.cpp) |
+| | Decimal to Binary Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/decimalToBinary.cpp) |
+| **Arrays** | Maximum Subarray Problem (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_bruteforce.cpp) |
+| | Maximum Subarray Problem (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_kadane.cpp) |
 | **Vectors** | (To be added) | N/A |
 
 > Add new rows as you solve more problems in different topics.  
@@ -26,20 +26,7 @@ It contains **topics, solved problems, and code implementations** in a structure
 
 1. Open the repository: [DSA 2026](https://github.com/tasbihaanwaradil/dsa2026)  
 2. Click on the **problem link** in the table above to jump directly to the solution file.  
-3. Explore folders for additional problems and notes.  
-
-> Example folder structure:  
-
-DSA2026/
-│
-├── BinaryNumberSystem/
-│ ├── BinaryToDecimal.cpp
-│ └── DecimalToBinary.cpp
-├── Arrays/
-│ ├── MaximumSubarrayBruteForce.cpp
-│ └── MaximumSubarrayKadane.cpp
-└── README.md
-
+3. Explore topics for additional problems and notes.  
 
 ---
 
