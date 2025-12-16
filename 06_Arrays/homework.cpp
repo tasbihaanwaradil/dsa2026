@@ -1,0 +1,1 @@
+//WAF which will return index value of smallest and largest number in an array
