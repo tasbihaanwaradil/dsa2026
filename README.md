@@ -1,9 +1,13 @@
 # DSA 2026 - Data Structures & Algorithms
 
-Welcome to **DSA 2026**, a repository dedicated to learning and practicing **Data Structures and Algorithms** with C++.  
-It contains **topics, solved problems, and code implementations** in a structured and easy-to-navigate way.  
+Welcome to **DSA 2026**, a repository dedicated to learning and practicing  
+**Data Structures and Algorithms** using **C++**.
 
-[Visit Repository](https://github.com/tasbihaanwaradil/dsa2026)
+This repository contains **topic-wise solved problems and implementations**
+to build strong DSA fundamentals step by step.
+
+🔗 **Repository Link:**  
+https://github.com/tasbihaanwaradil/dsa2026
 
 ---
 
@@ -13,43 +17,45 @@ It contains **topics, solved problems, and code implementations** in a structure
 |-------|--------|---------------|
 | **C++ Basics** | Conditional Statements, Loops, Patterns, Functions, etc. | N/A |
 | **Binary Number System** | Binary to Decimal Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/binaryToDecimal.cpp) |
-| | Decimal to Binary Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/decimalToBinary.cpp) |
+|  | Decimal to Binary Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/decimalToBinary.cpp) |
 | **Arrays** | Linear Search Algorithm | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/LinearSearchAlgorithm.cpp) |
-| | Reverse the Array (Two-pointer technique) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/ReverseOfArray.cpp) |
-| | Sum of all elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/arraySum.cpp) |
-| | Find largest number | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findLargestNumber.cpp) |
-| | Find smallest number | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findSmallestNumber.cpp) |
-| | Swap maximum and minimum elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/swapMinMax.cpp) |
-| | Print all unique values | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/uniqueValue.cpp) |
-| **Maximum Subarray** | Maximum Subarray Problem (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_bruteforce.cpp) |
-| | Maximum Subarray Problem (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_kadane.cpp) |
-| **Vectors** | (To be added) | N/A |
+|  | Reverse the Array (Two-pointer technique) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/ReverseOfArray.cpp) |
+|  | Sum of all elements in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/arraySum.cpp) |
+|  | Find the largest number in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findLargestNumber.cpp) |
+|  | Find the smallest number in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findSmallestNumber.cpp) |
+|  | Swap maximum and minimum elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/swapMinMax.cpp) |
+|  | Print all unique values in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/uniqueValue.cpp) |
+| **Maximum Subarray** | Maximum Subarray (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_bruteforce.cpp) |
+|  | Maximum Subarray (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_kadane.cpp) |
+| **Vectors** | Problems will be added | N/A |
 
-> Add new rows as you solve more problems in different topics.  
+> New problems and topics will be added regularly as learning progresses.
 
 ---
 
-## How to Navigate
+## How to Use This Repository
 
-1. Open the repository: [DSA 2026](https://github.com/tasbihaanwaradil/dsa2026)  
-2. Click on the **problem link** in the table above to jump directly to the solution file.  
-3. Explore topics for additional problems and notes.  
+1. Open the repository on GitHub  
+2. Browse the **Topics Covered & Problems Solved** table  
+3. Click **View Solution** to access the code directly  
+4. Practice and modify the code to strengthen understanding  
 
 ---
 
 ## Contributing
 
-Contributions are welcome! You can:  
+Contributions are welcome!
 
-- Add new topics and problems  
-- Improve existing solutions  
-- Add explanations or alternative approaches  
+You can:
+- Add new DSA problems
+- Improve existing solutions
+- Add alternative approaches or optimizations
 
-**Steps to contribute:**  
+**Steps to contribute:**
 1. Fork the repository  
-2. Add your solution or topic  
+2. Make your changes  
 3. Submit a pull request  
 
 ---
 
-✅ **Tip:** Bookmark this repo and practice daily to systematically strengthen your DSA skills.
+✅ **Tip:** Consistent daily practice is the key to mastering DSA.
