@@ -3,7 +3,7 @@
 Welcome to **DSA 2026**, a repository dedicated to learning and practicing  
 **Data Structures and Algorithms** using **C++**.
 
-This repository contains **topic-wise solved problems and implementations**
+This repository contains **topic-wise solved problems and implementations**  
 to strengthen DSA fundamentals step by step.
 
 🔗 **Repository Link:**  
@@ -13,22 +13,24 @@ https://github.com/tasbihaanwaradil/dsa2026
 
 ## Topics Covered & Problems Solved
 
-| Topic | Problem | Solution Link |
-|-------|--------|---------------|
-| **C++ Basics** | Conditional Statements, Loops, Patterns, Functions, etc. | N/A |
-| **Binary Number System** | Binary to Decimal Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/binaryToDecimal.cpp) |
-|  | Decimal to Binary Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/decimalToBinary.cpp) |
-| **Arrays** | Linear Search Algorithm | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/LinearSearchAlgorithm.cpp) |
-|  | Reverse the Array (Two-pointer technique) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/ReverseOfArray.cpp) |
-|  | Sum of all elements in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/arraySum.cpp) |
-|  | Find the largest number in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findLargestNumber.cpp) |
-|  | Find the smallest number in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findSmallestNumber.cpp) |
-|  | Swap maximum and minimum elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/swapMinMax.cpp) |
-|  | Print all unique values in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/uniqueValue.cpp) |
-|  | Pair Sum Problem | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/11_Majority_Element/pairSum.cpp) |
-| **Maximum Subarray** | Maximum Subarray (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_bruteforce.cpp) |
-|  | Maximum Subarray (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_kadane.cpp) |
-| **Vectors** | Problems will be added | N/A |
+| Topic | Difficulty | Problem | Solution Link |
+|-------|-----------|--------|---------------|
+| **C++ Basics** | N/A | Conditional Statements, Loops, Patterns, Functions, etc. | N/A |
+| **Binary Number System** | N/A | Binary to Decimal Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_Number_System/binaryToDecimal.cpp) |
+|  | N/A | Decimal to Binary Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_Number_System/decimalToBinary.cpp) |
+| **Arrays** | Basic | Linear Search Algorithm | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Basic/LinearSearchAlgorithm.cpp) |
+|  | Basic | Reverse the Array (Two-pointer technique) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Basic/ReverseOfArray.cpp) |
+|  | Basic | Sum of all elements in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Basic/arraySum.cpp) |
+|  | Basic | Find the largest number in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Basic/findLargestNumber.cpp) |
+|  | Basic | Find the smallest number in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Basic/findSmallestNumber.cpp) |
+|  | Basic | Swap maximum and minimum elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Basic/swapMinMax.cpp) |
+|  | Medium | Print all unique values in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/uniqueValue.cpp) |
+|  | Medium | Pair Sum Problem | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum.cpp) |
+|  | Medium | Maximum Subarray (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_bruteforce.cpp) |
+|  | Medium | Maximum Subarray (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_kadane.cpp) |
+| **Notes / Experiments** | Notes | Subarray experiments / Homework problems | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Notes/Subarray.cpp) |
+|  | Notes | Homework problems | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Notes/homeworkProblems.txt) |
+| **Vectors** | N/A | Problems will be added | N/A |
 
 > New problems and topics will be added regularly.
 
