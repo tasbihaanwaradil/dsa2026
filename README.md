@@ -28,8 +28,6 @@ https://github.com/tasbihaanwaradil/dsa2026
 |  | Medium | Pair Sum Problem | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum.cpp) |
 |  | Medium | Maximum Subarray (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_bruteforce.cpp) |
 |  | Medium | Maximum Subarray (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_kadane.cpp) |
-| **Notes / Experiments** | Notes | Subarray experiments / Homework problems | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Notes/Subarray.cpp) |
-|  | Notes | Homework problems | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Notes/homeworkProblems.txt) |
 | **Vectors** | N/A | Problems will be added | N/A |
 
 > New problems and topics will be added regularly.
