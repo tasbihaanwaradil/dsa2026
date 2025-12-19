@@ -2,5 +2,6 @@ WAF to calculate sum and product of all numbers in an array. (Done)
 WAF to swap the max and min numebr of an array (Done)
 WAF to print all the unique values in an array. (Done)
 WAF to print intersection of two arrays.
+WAF which will return index value of smallest and largest number in an array
 arr1 = {1,2,3,4,5}
 arr2 = {6,7,3,1}
