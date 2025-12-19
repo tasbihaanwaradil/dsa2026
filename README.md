@@ -4,7 +4,7 @@ Welcome to **DSA 2026**, a repository dedicated to learning and practicing
 **Data Structures and Algorithms** using **C++**.
 
 This repository contains **topic-wise solved problems and implementations**
-to build strong DSA fundamentals step by step.
+to strengthen DSA fundamentals step by step.
 
 🔗 **Repository Link:**  
 https://github.com/tasbihaanwaradil/dsa2026
@@ -25,11 +25,12 @@ https://github.com/tasbihaanwaradil/dsa2026
 |  | Find the smallest number in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/findSmallestNumber.cpp) |
 |  | Swap maximum and minimum elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/swapMinMax.cpp) |
 |  | Print all unique values in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/uniqueValue.cpp) |
+|  | Pair Sum Problem | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/11_Majority_Element/pairSum.cpp) |
 | **Maximum Subarray** | Maximum Subarray (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_bruteforce.cpp) |
 |  | Maximum Subarray (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maximum_Subarray/maxSubarraySum_kadane.cpp) |
 | **Vectors** | Problems will be added | N/A |
 
-> New problems and topics will be added regularly as learning progresses.
+> New problems and topics will be added regularly.
 
 ---
 
@@ -37,8 +38,8 @@ https://github.com/tasbihaanwaradil/dsa2026
 
 1. Open the repository on GitHub  
 2. Browse the **Topics Covered & Problems Solved** table  
-3. Click **View Solution** to access the code directly  
-4. Practice and modify the code to strengthen understanding  
+3. Click **View Solution** to jump directly to the code  
+4. Practice and modify the solutions to improve understanding  
 
 ---
 
@@ -49,7 +50,7 @@ Contributions are welcome!
 You can:
 - Add new DSA problems
 - Improve existing solutions
-- Add alternative approaches or optimizations
+- Add optimized or alternative approaches
 
 **Steps to contribute:**
 1. Fork the repository  
