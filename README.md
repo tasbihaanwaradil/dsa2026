@@ -20,6 +20,8 @@ to strengthen DSA fundamentals step by step.
 | ![Basic](https://img.shields.io/badge/Difficulty-Basic-green) | Binary to Decimal Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/binaryToDecimal.cpp) |
 | ![Basic](https://img.shields.io/badge/Difficulty-Basic-green) | Decimal to Binary Conversion | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/05_Binary_number_system/decimalToBinary.cpp) |
 
+---
+
 ### Arrays
 
 #### Basic
@@ -40,6 +42,7 @@ to strengthen DSA fundamentals step by step.
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Maximum Subarray (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_bruteforce.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Maximum Subarray (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_kadane.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Pair Sum Problem | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum.cpp) |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Pair Sum (Two Pointer Approach) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum_twoPointer.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Print all unique values in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/uniqueValue.cpp) |
 
 #### Hard
@@ -47,6 +50,8 @@ to strengthen DSA fundamentals step by step.
 | Difficulty | Problem | Solution Link |
 |-----------|--------|---------------|
 | ![Hard](https://img.shields.io/badge/Difficulty-Hard-red) | *(Hard problems will be added soon)* | N/A |
+
+---
 
 ### Vectors
 
@@ -61,26 +66,26 @@ to strengthen DSA fundamentals step by step.
 
 ## How to Use This Repository
 
-1. Open the repository on GitHub.  
-2. Browse the **Topics Covered & Problems Solved** table.  
-3. Click **View Solution** to jump directly to the code.  
-4. Practice, analyze, and modify the solutions to strengthen understanding.
+1. Open the repository on GitHub  
+2. Browse the **Topics Covered & Problems Solved** section  
+3. Click **View Solution** to jump directly to the code  
+4. Practice and modify the solutions to strengthen understanding  
 
 ---
 
 ## Contributing
 
-Contributions are welcome!  
+Contributions are welcome!
 
-You can:  
-- Add new DSA problems  
-- Improve existing solutions  
-- Add optimized or alternative approaches  
+You can:
+- Add new DSA problems
+- Improve existing solutions
+- Add optimized or alternative approaches
 
-**Steps to contribute:**  
-1. Fork the repository.  
-2. Make your changes.  
-3. Submit a pull request.
+**Steps to contribute:**
+1. Fork the repository  
+2. Make your changes  
+3. Submit a pull request  
 
 ---
 
