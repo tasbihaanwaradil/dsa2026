@@ -50,6 +50,7 @@ https://github.com/tasbihaanwaradil/dsa2026
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Print all unique values in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/uniqueValue.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Majority Element (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/majorityElement_bruteforce.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Majority Element (Sorting Approach) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/majorityElement_sorting.cpp) |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Majority Element (Boyer–Moore Voting Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/majorityElement_moore.cpp) |
 
 ---
 
