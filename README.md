@@ -7,11 +7,13 @@ This repository contains **topic-wise solved problems and implementations**
 to strengthen DSA fundamentals step by step.
 
 🔗 **Repository Link:**  
-[https://github.com/tasbihaanwaradil/dsa2026](https://github.com/tasbihaanwaradil/dsa2026)
+https://github.com/tasbihaanwaradil/dsa2026
 
 ---
 
 ## Topics Covered & Problems Solved
+
+---
 
 ### Binary Number System
 
@@ -35,15 +37,21 @@ to strengthen DSA fundamentals step by step.
 | ![Basic](https://img.shields.io/badge/Difficulty-Basic-green) | Find the smallest number in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Basic/findSmallestNumber.cpp) |
 | ![Basic](https://img.shields.io/badge/Difficulty-Basic-green) | Swap maximum and minimum elements | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Basic/swapMinMax.cpp) |
 
+---
+
 #### Medium
 
 | Difficulty | Problem | Solution Link |
 |-----------|--------|---------------|
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Maximum Subarray (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_bruteforce.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Maximum Subarray (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_kadane.cpp) |
-| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Pair Sum Problem | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum.cpp) |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Pair Sum (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum_bruteforce.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Pair Sum (Two Pointer Approach) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum_twoPointer.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Print all unique values in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/uniqueValue.cpp) |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Majority Element (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/majorityElement_bruteforce.cpp) |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Majority Element (Sorting Approach) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/majorityElement_sorting.cpp) |
+
+---
 
 #### Hard
 
@@ -58,9 +66,6 @@ to strengthen DSA fundamentals step by step.
 | Difficulty | Problem | Solution Link |
 |-----------|--------|---------------|
 | N/A | Problems will be added | N/A |
-
-> 🔔 **New problems and topics will be added regularly.**  
-> Difficulty levels are clearly marked for better learning flow.
 
 ---
 
