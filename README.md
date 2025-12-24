@@ -45,9 +45,12 @@ https://github.com/tasbihaanwaradil/dsa2026
 |-----------|--------|---------------|
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Maximum Subarray (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_bruteforce.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Maximum Subarray (Kadane’s Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/maxSubarraySum_kadane.cpp) |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Best Time to Buy and Sell Stock (One Transaction) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/bestTimeToBuyAndSellStock.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Pair Sum (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum_bruteforce.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Pair Sum (Two Pointer Approach) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/pairSum_twoPointer.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Print all unique values in an array | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/uniqueValue.cpp) |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Container With Most Water (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/containerWithMostWater_bruteforce.cpp) |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Container With Most Water (Two Pointer Approach) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/containerWithMostWater_twoPointer.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Majority Element (Brute Force) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/majorityElement_bruteforce.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Majority Element (Sorting Approach) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/majorityElement_sorting.cpp) |
 | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Majority Element (Boyer–Moore Voting Algorithm) | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/06_Arrays/Medium/majorityElement_moore.cpp) |
@@ -62,11 +65,11 @@ https://github.com/tasbihaanwaradil/dsa2026
 
 ---
 
-### Vectors
+### Maths
 
 | Difficulty | Problem | Solution Link |
 |-----------|--------|---------------|
-| N/A | Problems will be added | N/A |
+| ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | Binary Exponentiation (Iterative) – Compute xⁿ | [View Solution](https://github.com/tasbihaanwaradil/dsa2026/blob/main/08_Maths/binaryExponentiation.cpp) |
 
 ---
 
@@ -84,9 +87,9 @@ https://github.com/tasbihaanwaradil/dsa2026
 Contributions are welcome!
 
 You can:
-- Add new DSA problems
-- Improve existing solutions
-- Add optimized or alternative approaches
+- Add new DSA problems  
+- Improve existing solutions  
+- Add optimized or alternative approaches  
 
 **Steps to contribute:**
 1. Fork the repository  
